@@ -1,0 +1,7 @@
+pytest
+pytest-selenium
+selenium==4.28.1
+webdriver-manager==4.0.2
+pytest-html==4.1.1
+pytest-xdist==3.6.1
+pytest-rerunfailures==15.0
